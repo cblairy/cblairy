@@ -1,4 +1,4 @@
-### Hi there 👋
+![photo de montpellier vu de haut](./Montpellier-4.jpg)
 
 <!--
 **cblairy/cblairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
